@@ -22,3 +22,5 @@
  - [Himeră](https://github.com/zgornel/poetica-i/blob/master/text/himera.txt)
  - [Tăiţel](https://github.com/zgornel/poetica-i/blob/master/text/taitel.txt)
  - [Dor](https://github.com/zgornel/poetica-i/blob/master/text/dor.txt)
+ - [Tipografia](https://github.com/zgornel/poetica-i/blob/master/text/tipografia.txt)
+ - [Muzica](https://github.com/zgornel/poetica-i/blob/master/text/muzica.txt)
